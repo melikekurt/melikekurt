@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m computer science student.
-- 🌱 I’m currently learning data mining and machine learning .
-- 🐍 I'm also interested Fullstack Development with Python.
+- 🔭 I’m a Computer Science graduate from Istanbul Medeniyet University.
+- 🌱 Currently deepening my knowledge in Data Mining and Machine Learning.
+- 💻 I have experience in Data Analysis, Computer Vision, and Web Development using Python.
+- 🐍 I'm also passionate about Fullstack Development with Python, working on projects that integrate Neural Networks, Natural Language Processing (NLP).
+- 🚀 During my part-time work, I've honed my skills in a wide range of areas, including Large Language Models (LLMs) and more.
+
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=melikekurt&show_icons=true&theme=gradient) 
 
